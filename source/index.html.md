@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Codeanywhere Documentation
 
 toc_footers:
   - <a href='https://codeanywhere.com'>Go to Codeanywhere</a>
