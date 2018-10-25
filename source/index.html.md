@@ -282,14 +282,106 @@ Connect to your repository via [Github](#github) or [Bitbucket](#bitbucket) dire
 `git push origin master // Push your local changes to repository`
 
 
-
 # Codeanywhere Overview
 ## Register/Login
-## The Top Menu Bar
-## File Explorer
-## The Code Editor
-## Terminal
-## Status Bar
+To get started with Codeanywhere, just Register with an account or Login if you are already registered and go to our Editor!
+
+### Register
+You can Register with Codeanywhere by selecting Sign Up on our Home page.
+
+![](https://docs.codeanywhere.com/overview/images/signup.png)
+
+Now you can choose between multiple registration methods:
+
+Entering your e-mail and password which will be used upon your future sign in
+* Using your Google Account
+* Using your Bitbucket account
+* Using your GitHub account
+* Using your Facebook account
+
+In case you choose any of the oAuth methods, you'll have to authorize Codeanywhere for it to be able to access it again.
+
+### Login
+You can log into your account if you already have an account. Simply choose between the method you used for registration and you'll be redirected to your Editor!
+
+![](https://docs.codeanywhere.com/overview/images/signin.png)
+
+### Forgot Password
+If you forget your password, want to set an password for any of the oAuth methods, or have any problems while logging in to Codeanywhere you can use "Forgot password?" link to reset your password. It is located below login form:
+
+![](https://docs.codeanywhere.com/overview/images/signin-forgotpassword.png)
+
+Once you receive email for your password reset, follow the link and enter the new password. After that you can use the new password and your email to login to your Codeanywhere account.
+
+## Codeanywhere UI
+Codeanywhere contains features you'd expect from traditional desktop editors. Among these include:
+
+* Save file option
+* Undo and Redo support
+* Cut, Copy, Paste, and Replace functionality
+* Line manipulation, including:
+  * Indenting and outdenting
+  * Moving and copying lines up or down
+  * Removing lines from any point
+  * Splitting lines
+* Highlighting and commenting blocks of code
+* Revisions
+* Code folding (including the entire file)
+* Converting cases
+* Autocompletion
+* Code analysis
+* Search in files with regular expressions
+* Line wrapping, to a defined column or the width of the browser window
+* Support for spaces and real tabs
+
+Codeanywhere can be thought of as being divided into the following components:
+
+1. The top menu bar is the uppermost area, with easy access to a variety of menus
+2. The file explorer on the left lets you manipulate various aspects of your project, including its active files, preferences, and choices for deployment. It also displays views according to what's been selected in the file explorer
+3. The editor is the main area where you write your code
+4. Terminal allows you to SSH directly from your browser
+5. The status bar is the bottom area of the window. It shows all sorts of information about your code
+
+![](https://docs.codeanywhere.com/overview/images/editor.png)
+
+### The Top Menu Bar
+In this section, you can find the usual menus for creating, opening and saving files, changing your view, and switching between windows.
+
+![](https://docs.codeanywhere.com/overview/codeanywhereui/images/topmenubar.png)
+Under the "Help" menu, there is a Change log button which will direct you to all the recent changes, link to our Documentation, Send Feedback button where you can send your comments and feedbacks about Codeanywhere, as well as link to our Terms of Service and Privacy Policy.
+
+Notifications will show you all the changes made – once you create new file, share a file, or upload one, ect. On the far right you can see a Profile button.
+
+![](https://docs.codeanywhere.com/overview/codeanywhereui/images/dashboard-access.png)
+
+It allows you to go to your [Dashboard](#dashboard) - where you can view your subscriptions, projects and shares, change your password or delete your account - or to log off from the Editor, returning you to the Codeanywhere [homepage](https://codeanywhere.com).
+
+### File Explorer
+The File Explorer is located on the left side of the Codeanywhere Editor. Inside of the File Explorer you can find all the connections you've made with files and folders linked with them within one Project. With a right click on your Project you'll can choose if you'd like to switch an Project, share your entire Project with other users, add a new one, manage existing ones (this will redirect you to your Dashboard), add new connection within a Project, or just refresh your current Project.
+
+![](https://docs.codeanywhere.com/overview/codeanywhereui/images/project.png)
+
+Each of the connections you can make is explained below:
+
+* Container - your own Virtual Private Servers with its own amount of RAM, Disk space and Processing power – * contains a list of folders and files within your Container
+* GitHub – a container with your GitHub repository
+* Bitbucket – container with your Bitbucket repository
+* Git from URL - container with your repository
+* FTP – contains a FTP/FTPS servers
+* SSH – contains a SSH/SFTP servers
+* Google Drive – shows the list of folders and files on your Google Drive account
+* Dropbox – shows the list of folders and files on your Dropbox account
+* Amazon S3 – shows the list of folders and files on your S3 account
+* DigitalOcean - a Droplet from DigitalOcean
+
+Clicking on any connection or folder expands its menu. Clicking on an expanded button causes it to collapse, which gives you more room in the File Explorer to work with.
+
+Right-click on any file/folder in File Explorer opens a drop-down menu that provides a list of options that can be performed. For a container, you can choose whether you'd like to run it, edit Config file, ect.
+
+### The Code Editor
+### Terminal
+### Status Bar
+
 ## Dashboard
 ## Projects
 
