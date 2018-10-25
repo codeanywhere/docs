@@ -112,7 +112,7 @@ html, body {
     transition-property: height, margin;
     transition-duration: 180ms;
     transition-timing-function: ease-in-out;
-    background: $nav-subitem-bg;
+    background: $nav-search-result-bg;
     &.visible {
       height: 30%;
       margin-bottom: 1em;
@@ -441,7 +441,7 @@ html, body {
   }
 
   p, li, dt, dd {
-    line-height: 1.6;
+    line-height: 1.75;
     margin-top: 0;
   }
 

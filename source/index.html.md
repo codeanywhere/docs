@@ -2,7 +2,7 @@
 title: Codeanywhere Documentation
 
 toc_footers:
-  - <a href='https://codeanywhere.com'>Go to Codeanywhere</a>
+  - <a href='https://codeanywhere.com'>Back to Codeanywhere</a>
 
 includes:
 
