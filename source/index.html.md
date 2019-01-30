@@ -5,14 +5,69 @@ toc_footers:
   - <a href='https://codeanywhere.com'>Back to Codeanywhere</a>
 
 includes:
-  - getting-started
-  - codeanywhere-overview
-  - connections
-  - preferences
-  - codeanywhere-features
-  - advanced-topics
-  - account-management
-  - other
+  - getting-started/welcome
+  - getting-started/what-is-codeanywhere
+  - getting-started/quick-tutorial
+  - getting-started/faq
+  - codeanywhere-overview/register-login
+  - codeanywhere-overview/codeanywhere-ui
+  - codeanywhere-overview/dashboard
+  - codeanywhere-overview/projects
+  - connections/container
+  - connections/container-configuration
+  - connections/phpmyadmin
+  - connections/setting-custom-domain
+  - connections/github
+  - connections/bitbucket
+  - connections/git-from-url
+  - connections/ftp
+  - connections/sftp-ssh
+  - connections/google-drive
+  - connections/dropbox
+  - connections/amazon-s3
+  - connections/digital-ocean
+  - connections/onedrive
+  - preferences/preferences-structure
+  - preferences/general
+  - preferences/key-bindings
+  - preferences/filetypes
+  - preferences/linting
+  - preferences/snippets
+  - codeanywhere-features/color-picker
+  - codeanywhere-features/share
+  - codeanywhere-features/share-link
+  - codeanywhere-features/pair-programming
+  - codeanywhere-features/ssh-realtime-collaboration
+  - codeanywhere-features/revisions
+  - codeanywhere-features/mini-map
+  - codeanywhere-features/searching-and-replacing-in-editor
+  - codeanywhere-features/find-in-files
+  - codeanywhere-features/goto
+  - codeanywhere-features/character-encoding
+  - codeanywhere-features/multiple-licenses
+  - codeanywhere-features/preview-files
+  - codeanywhere-features/two-factor-authentication
+  - codeanywhere-features/bookmarks
+  - codeanywhere-features/open-files
+  - codeanywhere-features/vim-mode
+  - codeanywhere-features/distraction-free-mode
+  - advanced-topics/changing-mysql-password
+  - advanced-topics/installing-sass.html.md
+  - advanced-topics/installing-laravel-framework
+  - advanced-topics/installing-angular-framework
+  - advanced-topics/installing-django-framework
+  - advanced-topics/installing-meteor-framework
+  - advanced-topics/installing-mongodb
+  - advanced-topics/installing-mean-stack
+  - advanced-topics/working-with-repositories
+  - advanced-topics/changing-document-root-in-container
+  - advanced-topics/subversion
+  - account-management/purchasing-a-premium-plan
+  - account-management/addons
+  - account-management/trial-plan
+  - account-management/premium-plan-cancellation
+  - account-management/close-account
+  - other/getting-support
 
 search: true
 ---
