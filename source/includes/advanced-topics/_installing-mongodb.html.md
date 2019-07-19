@@ -25,7 +25,7 @@ sudo apt-get install -y mongodb-enterprise
 Start MongoDB
 
 ~~~~
-sudo systemctl mongod start
+sudo systemctl start mongod
 ~~~~
 
 ### CentOS 7.2
